@@ -168,7 +168,7 @@ plausible.init({"customProperties":{"author":"Pablo Vazquez","user_logged_in":"n
                       If it didn't start, <u>download manually</u>.
                   </summary>
                   <div class="py-3">
-                    <p class="m-0">Direct link: <a href="https://mirrors.cicku.me/blender/release/Blender5.1/blender-5.1.1-windows-x64.msi">https://mirrors.cicku.me/blender/release/Blender5.1/blender-5.1.1-windows-x64.msi</a></p>
+                    <p class="m-0">Direct link: <a href="https://mirror.clarkson.edu/blender/release/Blender5.1/blender-5.1.1-windows-x64.msi">https://mirror.clarkson.edu/blender/release/Blender5.1/blender-5.1.1-windows-x64.msi</a></p>
                   </div>
 
                   Alternative Mirrors
@@ -179,7 +179,7 @@ plausible.init({"customProperties":{"author":"Pablo Vazquez","user_logged_in":"n
                             Netherlands                          </a>
                         </li>
                                               <li>
-                          <a href="https://mirror.clarkson.edu/blender/release/Blender5.1/blender-5.1.1-windows-x64.msi" title="Clarkson University">
+                          <a href="https://mirrors.cicku.me/blender/release/Blender5.1/blender-5.1.1-windows-x64.msi" title="Christopher Meng">
                             USA                          </a>
                         </li>
                                               <li>
@@ -684,5 +684,5 @@ Object Caching 233/235 objects using Memcache
 Page Caching using Memcache (Requested URI is rejected) 
 Database Caching 9/9 queries in 0.001 seconds using Memcache
 
-Served from: www.blender.org @ 2026-05-03 16:54:47 by W3 Total Cache
+Served from: www.blender.org @ 2026-05-03 16:58:30 by W3 Total Cache
 -->
